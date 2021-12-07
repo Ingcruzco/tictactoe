@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:title="Jugar de Nuevo"/>
+    <item android:id="@+id/ai_difficulty"
+        android:title="Dificultad"/>
+    <item android:id="@+id/quit"
+        android:title="Salir"/>
+    <item android:id="@+id/about"
+        android:title="About"/>
+</menu>

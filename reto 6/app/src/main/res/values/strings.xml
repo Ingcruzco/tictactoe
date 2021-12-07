@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Triqui</string>
+    <string name="difficulty_choose">Seleccione la dificultad</string>
+    <string name="difficulty_easy">facil</string>
+    <string name="difficulty_harder">Dificil</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="quit_question">Esta seguro que quiere salir?</string>
+    <string name="yes">SI</string>
+    <string name="no">NO</string>
+    <string name="close">Ok</string>
+    <string name="about">About</string>
+    <string name="about_message">Escoja uno de los tres niveles de dificultad.\nNo dejes ganar a Android!</string>
+</resources>
